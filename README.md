@@ -17,6 +17,8 @@
         - undefined - undefined value of property
         - null - property does exist, but holds no value
 
+2. [Prototypal Inheritance](../master/prototypal-inheritance.js)
+
 
 ## ECMA Script
 
