@@ -12,6 +12,7 @@
             - +0/-0
     - [Boolean](../master/datatypes/boolean.js)
     - [Object](../master/datatypes/object.js)
+        - Functions are also objects
     - [Array](../master/datatypes/array.js)
     - [null and undefined](../master/datatypes/null-and-undefined.js)
         - undefined - undefined value of property
