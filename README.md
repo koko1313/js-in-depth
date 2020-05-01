@@ -14,3 +14,14 @@
     - [null and undefined](../master/datatypes/null-and-undefined.js)
         - undefined - undefined value of property
         - null - property does exist, but holds no value
+
+
+## ECMA Script
+
+1. [Difference between let and var](../master/ecma-script/let-var-difference.js)
+
+    | var                                                   | let               |
+    |-------------------------------------------------------|-------------------|
+    | in JavaScript from the beginning                      | introduced in ES6 |
+    | declaration gets hoisted in the top of the function   | -                 |
+    | functional scope                                      | block scope       |
