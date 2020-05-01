@@ -2,37 +2,37 @@
 
 ## Vanilla JavaScript
 
-1. [Datatypes in JavaScript](./datatypes)
-    - [String](./datatypes/string.js)
-    - [Number](./datatypes/number.js)
+1. [Datatypes in JavaScript](./vanilla-javascript/datatypes)
+    - [String](./vanilla-javascript/datatypes/string.js)
+    - [Number](./vanilla-javascript/datatypes/number.js)
         - Special values:
             - NaN (Not a Number)
             - Infinity (positive infinity)
             - -Infinity (negative infinity)
             - +0/-0
-    - [Boolean](./datatypes/boolean.js)
-    - [Object](./datatypes/object.js)
+    - [Boolean](./vanilla-javascript/datatypes/boolean.js)
+    - [Object](./vanilla-javascript/datatypes/object.js)
         - Functions are also objects
-    - [Array](./datatypes/array.js)
-    - [null and undefined](./datatypes/null-and-undefined.js)
+    - [Array](./vanilla-javascript/datatypes/array.js)
+    - [null and undefined](./vanilla-javascript/datatypes/null-and-undefined.js)
         - undefined - undefined value of property
         - null - property does exist, but holds no value
 
-2. [Equal operators](./equal-operators.js)
+2. [Equal operators](./vanilla-javascript/equal-operators.js)
 
-3. [Scope chain](./scope-chain.js)
+3. [Scope chain](./vanilla-javascript/scope-chain.js)
 
-4. [Prototypal Inheritance](./prototypal-inheritance.js)
+4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.js)
 
-5. [Timeout functions](./timeout-functions.js)
+5. [Timeout functions](./vanilla-javascript/timeout-functions.js)
 
-6. [Closure](./closure.js)
+6. [Closure](./vanilla-javascript/closure.js)
 
-7. [Call, apply and bind](./call-apply-bind.js)
+7. [Call, apply and bind](./vanilla-javascript/call-apply-bind.js)
 
-8. [Method chaining](./method-chaining.js)
+8. [Method chaining](./vanilla-javascript/method-chaining.js)
 
-9. [Immediately Invoked Function Expression (IIFE)](./immediately-invoked-function-expression.js)
+9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.js)
 
 
 ## ECMA Script
