@@ -32,6 +32,8 @@
 
 8. [Method chaining](./method-chaining.js)
 
+9. [Immediately Invoked Function Expression (IIFE)](./immediately-invoked-function-expression.js)
+
 
 ## ECMA Script
 
