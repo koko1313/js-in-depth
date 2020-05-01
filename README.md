@@ -30,6 +30,8 @@
 
 7. [Call, apply and bind](./call-apply-bind.js)
 
+8. [Method chaining](./method-chaining.js)
+
 
 ## ECMA Script
 
