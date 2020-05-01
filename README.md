@@ -28,6 +28,8 @@
 
 6. [Closure](../master/closure.js)
 
+7. [Call, apply and bind](./call-apply-bind.js)
+
 
 ## ECMA Script
 
