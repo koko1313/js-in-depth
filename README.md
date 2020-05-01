@@ -19,9 +19,9 @@
 
 2. [Prototypal Inheritance](../master/prototypal-inheritance.js)
 
-3. [timeout functions()](../master/closure.js)
+3. [timeout functions()](../master/timeout-functions.js)
 
-4. [Closure]
+4. [Closure](../master/closure.js)
 
 
 ## ECMA Script
