@@ -9,3 +9,4 @@
             - -Infinity (negative infinity)
             - +0/-0
     - [Boolean](../master/datatypes/boolean.js)
+    - [Object](../master/datatypes/object.js)
