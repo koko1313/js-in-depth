@@ -8,3 +8,4 @@
             - Infinity (positive infinity)
             - -Infinity (negative infinity)
             - +0/-0
+    - [Boolean](../master/datatypes/boolean.js)
