@@ -19,6 +19,8 @@
 
 2. [Equal operators](../master/equal-operators.js)
 
+3. [Scope chain](../master/scope-chain.js)
+
 3. [Prototypal Inheritance](../master/prototypal-inheritance.js)
 
 4. [Timeout functions](../master/timeout-functions.js)
