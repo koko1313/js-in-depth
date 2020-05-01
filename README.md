@@ -25,6 +25,11 @@
 4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.js)
 
 5. [Timeout functions](./vanilla-javascript/timeout-functions.js)
+    - `setTimeout()` and `setInterval()` are part of WEB API, which means we call it as `window.setTimeout()`,
+    but actually, we can call it just like this `setTimeout()`, while we are in
+    the global scope
+    - `setTimeout()` happens only once
+    - `setInterval()` happens many times (until gets stopped)
 
 6. [Closure](./vanilla-javascript/closure.js)
 
