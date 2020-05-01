@@ -22,6 +22,10 @@ let removeGarbage = () => {
     });
 };
 
+
+/**
+ * Clear the room, then remove the garbage, then win icecream
+ */
 clearRoom()
     .then(() => {
         return removeGarbage();
@@ -31,5 +35,29 @@ clearRoom()
     })
     // if some of the promises is rejected
     .catch((message) => {
-        console.log(`You don't won icecream. The reason is: ${message}`);
+        console.log(`Don't won icecream. The reason is: ${message}`);
+    });
+
+/**
+ * Clear room and remove garbage parallel, and then say it's all ready
+ */
+Promise.all([clearRoom(), removeGarbage()])
+    .then(() => {
+        console.log("All promises are resolved");
+    })
+    // if not resolved some of the promises
+    .catch(() => {
+        console.log("Don't won icecream. Not resolved all the promises");
+    });
+
+/**
+ * Clear the room OR remove the garbage, when ready with one of them say one promise is ready
+ */
+Promise.race([clearRoom(), removeGarbage()])
+    .then(() => {
+        console.log("One promise is ready");
+    })
+    // if not resolved all the promises
+    .catch(() => {
+        console.log("No one of the promises is resolved");
     });
