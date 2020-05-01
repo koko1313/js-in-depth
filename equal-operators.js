@@ -1,5 +1,5 @@
-let a = 2;
-let b = "2";
+var a = 2;
+var b = "2";
 
 // does not compare the type
 // first parses "b" to the type of "a" and then compares them

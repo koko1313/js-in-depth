@@ -1,5 +1,5 @@
-let calculator = function() {
-    let two = 2;
+var calculator = function() {
+    var two = 2;
 
     // returns an object, containing functions
     return {
@@ -13,7 +13,7 @@ let calculator = function() {
 }
 
 // calc1 now contains the returned object with functions and as a CLOSURE contains the variable "two"
-let calc1 = calculator();
+var calc1 = calculator();
 
 calc1.addTwo(4); // 6
 calc1.removeTwo(10); // 8

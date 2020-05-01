@@ -1,4 +1,4 @@
-let car = function(model) {
+var car = function(model) {
     this.model = model;
 }
 
@@ -7,14 +7,14 @@ car.prototype.getModel = function() {
     return this.model;
 }
 
-let toyota = new car("Toyota");
+var toyota = new car("Toyota");
 
 // The object toyota now have .getModel() too. 
 // This is called prototypal inheritance.
 console.log(toyota.getModel());
 
 
-let arr = [2, 4, 6];
+var arr = [2, 4, 6];
 
 
 // Add .print() method to Array prototype
