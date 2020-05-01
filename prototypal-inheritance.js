@@ -12,3 +12,16 @@ let toyota = new car("Toyota");
 // The object toyota now have .getModel() too. 
 // This is called prototypal inheritance.
 console.log(toyota.getModel());
+
+
+let arr = [2, 4, 6];
+
+
+// Add .print() method to Array prototype
+Array.prototype.print = function() {
+    this.forEach(element => {
+        console.log("Element: " + element);
+    });
+}
+
+arr.print();
