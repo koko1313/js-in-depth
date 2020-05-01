@@ -17,7 +17,7 @@
         - undefined - undefined value of property
         - null - property does exist, but holds no value
 
-2. [Equal operators](../master/equal-operators)
+2. [Equal operators](../master/equal-operators.js)
 
 3. [Prototypal Inheritance](../master/prototypal-inheritance.js)
 
