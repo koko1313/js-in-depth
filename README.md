@@ -12,5 +12,5 @@
     - [Object](../master/datatypes/object.js)
     - [Array](../master/datatypes/array.js)
     - [null and undefined](../master/datatypes/null-and-undefined.js)
-        - undefined - undefined variable of property
+        - undefined - undefined value of property
         - null - property does exist, but holds no value
