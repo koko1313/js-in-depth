@@ -17,11 +17,13 @@
         - undefined - undefined value of property
         - null - property does exist, but holds no value
 
-2. [Prototypal Inheritance](../master/prototypal-inheritance.js)
+2. [Equal operators](../master/equal-operators)
 
-3. [Timeout functions](../master/timeout-functions.js)
+3. [Prototypal Inheritance](../master/prototypal-inheritance.js)
 
-4. [Closure](../master/closure.js)
+4. [Timeout functions](../master/timeout-functions.js)
+
+5. [Closure](../master/closure.js)
 
 
 ## ECMA Script
