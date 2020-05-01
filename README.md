@@ -29,3 +29,5 @@
     | in JavaScript from the beginning                      | introduced in ES6 |
     | declaration gets hoisted in the top of the function   | -                 |
     | functional scope                                      | block scope       |
+
+2. [Promises](../master/ecma-script/promises.js)
