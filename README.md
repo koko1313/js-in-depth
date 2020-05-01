@@ -1,5 +1,7 @@
 # JavaScript in Depth
 
+## Vanilla JavaScript
+
 1. [Datatypes in JavaScript](../master/datatypes)
     - [String](../master/datatypes/string.js)
     - [Number](../master/datatypes/number.js)
