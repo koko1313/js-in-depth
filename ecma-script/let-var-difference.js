@@ -1,5 +1,5 @@
 let x = function () {
-    // j gets hoisted here
+    // j declaration gets hoisted here
     
     if(true) {
         // console.log(j); // undefined, because it's declaration gets hoisted but the value assotiation does not
