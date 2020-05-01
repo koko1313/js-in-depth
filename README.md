@@ -10,3 +10,4 @@
             - +0/-0
     - [Boolean](../master/datatypes/boolean.js)
     - [Object](../master/datatypes/object.js)
+    - [Array](../master/datatypes/array.js)
