@@ -21,11 +21,11 @@
 
 3. [Scope chain](../master/scope-chain.js)
 
-3. [Prototypal Inheritance](../master/prototypal-inheritance.js)
+4. [Prototypal Inheritance](../master/prototypal-inheritance.js)
 
-4. [Timeout functions](../master/timeout-functions.js)
+5. [Timeout functions](../master/timeout-functions.js)
 
-5. [Closure](../master/closure.js)
+6. [Closure](../master/closure.js)
 
 
 ## ECMA Script
