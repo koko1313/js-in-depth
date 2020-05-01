@@ -19,6 +19,8 @@
 
 2. [Prototypal Inheritance](../master/prototypal-inheritance.js)
 
+3. [timeout functions()](../master/fimeout-functions.js)
+
 
 ## ECMA Script
 
