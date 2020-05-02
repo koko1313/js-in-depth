@@ -19,9 +19,9 @@ var arr = [2, 4, 6];
 
 // Add .print() method to Array prototype
 Array.prototype.print = function() {
-    this.forEach(element => {
-        console.log("Element: " + element);
-    });
+    for(var i = 0; i < this.length; i++) {
+        console.log("Element: " + this[i]);
+    }
 }
 
 arr.print();
