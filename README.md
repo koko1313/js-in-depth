@@ -32,7 +32,7 @@
 
 3. [Arrow functions](./ecma-script/arrow-functions.md)
 
-4. [Promises](./ecma-script/promises.js)
+4. [Promises](./ecma-script/promises.md)
 
 5. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters)
 
