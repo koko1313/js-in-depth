@@ -30,7 +30,7 @@
 
 2. [Constants](./ecma-script/constants.md)
 
-3. [Arrow functions](./ecma-script/arrow-functions.js)
+3. [Arrow functions](./ecma-script/arrow-functions.md)
 
 4. [Promises](./ecma-script/promises.js)
 
