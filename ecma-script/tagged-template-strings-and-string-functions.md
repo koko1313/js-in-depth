@@ -10,7 +10,7 @@
 2. Interpolation
     ```javascript
     let name = 'bond';
-    console.log(`my name is ${name}, James ${x}`);
+    console.log(`my name is ${name}, James ${name}`);
     ```
 
 3. Tagged templates
