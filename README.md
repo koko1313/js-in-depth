@@ -28,7 +28,7 @@
 
 1. [Difference between let and var](./ecma-script/let-var-difference.md)
 
-2. [Constants](./ecma-script/constants.js)
+2. [Constants](./ecma-script/constants.md)
 
 3. [Arrow functions](./ecma-script/arrow-functions.js)
 
