@@ -22,6 +22,8 @@
 
 10. [Callback functions](./vanilla-javascript/callback-functions.js)
 
+11. [The keyword "this"](./vanilla-javascript/keyword-this.js)
+
 ## ECMA Script
 
 1. [Difference between let and var](./ecma-script/let-var-difference.js)
