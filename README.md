@@ -4,7 +4,7 @@
 
 1. [Datatypes in JavaScript](./vanilla-javascript/datatypes)
 
-2. [Equal operators](./vanilla-javascript/equal-operators.js)
+2. [Equal operators](./vanilla-javascript/equal-operators.md)
 
 3. [Scope chain](./vanilla-javascript/scope-chain.js)
 
