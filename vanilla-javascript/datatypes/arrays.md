@@ -23,5 +23,5 @@
 3. Get an element by index
 
     ```javascript
-        console.log(arr[0]); // print the first element of the array
+    console.log(arr[0]); // print the first element of the array
     ```
