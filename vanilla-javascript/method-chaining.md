@@ -1,4 +1,4 @@
-# Object chaining
+# Method chaining
 
 ```javascript
 // object that behaves like a class
