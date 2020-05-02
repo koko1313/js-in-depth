@@ -20,6 +20,7 @@
 
 9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.js)
 
+10. [Callback functions](./vanilla-javascript/callback-functions.js)
 
 ## ECMA Script
 
