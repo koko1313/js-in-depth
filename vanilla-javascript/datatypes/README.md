@@ -8,7 +8,7 @@
         - `-Infinity` (negative infinity)
         - `+0` / `-0`
 - [Boolean](./boolean.md)
-- [Object](./object.js)
+- [Object](./object.md)
     - Functions are also objects
 - [Arrays](./arrays.md)
 - [**null** and **undefined**](./null-and-undefined.md)
