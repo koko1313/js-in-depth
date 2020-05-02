@@ -33,8 +33,10 @@
 
 2. [Constants](./ecma-script/constants.js)
 
-3. [Promises](./ecma-script/promises.js)
+3. [Arrow functions](./ecma-script/arrow-functions.js)
 
-4. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters)
+4. [Promises](./ecma-script/promises.js)
 
-4. [Maps and Sets](./ecma-script/maps-and-sets)
+5. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters)
+
+6. [Maps and Sets](./ecma-script/maps-and-sets)
