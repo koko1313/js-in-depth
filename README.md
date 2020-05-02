@@ -35,4 +35,6 @@
 
 3. [Promises](./ecma-script/promises.js)
 
+4. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters)
+
 4. [Maps and Sets](./ecma-script/maps-and-sets)
