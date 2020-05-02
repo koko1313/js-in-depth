@@ -7,7 +7,7 @@
         - `Infinity` (positive infinity)
         - `-Infinity` (negative infinity)
         - `+0` / `-0`
-- [Boolean](./boolean.js)
+- [Boolean](./boolean.md)
 - [Object](./object.js)
     - Functions are also objects
 - [Arrays](./arrays.md)
