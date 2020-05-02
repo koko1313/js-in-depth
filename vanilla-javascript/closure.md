@@ -1,3 +1,6 @@
+# Closure
+
+```javascript
 var calculator = function() {
     var two = 2;
 
@@ -19,3 +22,4 @@ calc1.addTwo(4); // 6
 calc1.removeTwo(10); // 8
 
 console.dir(calc1); // the object
+```

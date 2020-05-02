@@ -12,7 +12,7 @@
 
 5. [Timeout functions](./vanilla-javascript/timeout-functions.md)
 
-6. [Closure](./vanilla-javascript/closure.js)
+6. [Closure](./vanilla-javascript/closure.md)
 
 7. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.js)
 
