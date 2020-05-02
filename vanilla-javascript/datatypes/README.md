@@ -1,6 +1,6 @@
 # Datatypes in JavaScript
 
-- [String](./string.js)
+- [String](./string.md)
 - [Number](./number.js)
     - Special values:
         - `NaN` (Not a Number)
