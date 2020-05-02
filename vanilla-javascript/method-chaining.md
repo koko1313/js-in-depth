@@ -1,3 +1,6 @@
+# Object chaining
+
+```javascript
 // object that behaves like a class
 var calculator = function() {
     var result = 0;
@@ -21,3 +24,4 @@ var calculator = function() {
 var calc = new calculator();
 
 calc.add(3).substract(2).print();
+```

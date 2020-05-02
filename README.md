@@ -16,7 +16,7 @@
 
 7. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.md)
 
-8. [Method chaining](./vanilla-javascript/method-chaining.js)
+8. [Method chaining](./vanilla-javascript/method-chaining.md)
 
 9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.js)
 
