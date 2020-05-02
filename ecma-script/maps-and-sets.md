@@ -1,6 +1,6 @@
 # Maps and Sets
 
-- [Maps](./maps.js)
+- Maps
     - Key-value pairs
     - Can not contain duplicate keys, but can contain duplicate values
 
@@ -25,7 +25,7 @@
     const arr = [...map];
     console.log(arr);
     ```
-- [Sets](./sets.js)
+- Sets
     - Refference datatype
     - Can not contain duplicate values
     - Doesn't have ordering
