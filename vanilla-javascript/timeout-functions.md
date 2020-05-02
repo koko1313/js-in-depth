@@ -13,7 +13,7 @@ the global scope
         }, 5000);
         ```
 
-    - Clear the interval
+    - Clear the timeout
         
         ```javascript
         clearTimeout(timeoutId); 
@@ -29,4 +29,18 @@ the global scope
         console.log("b");
         console.log("c");
         ```
+
 2. **setInterval()** - happens many times (until gets stopped)
+    - Set interval
+
+        ```javascript
+        var intervalId = setInterval(function() {
+            console.log("Greetings from setInterval");
+        }, 5000);
+        ```
+
+    - Clear the interval
+    
+        ```javascript
+        clearInterval(intervalId); // clears the interval
+        ```
