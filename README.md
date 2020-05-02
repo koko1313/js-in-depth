@@ -18,7 +18,7 @@
 
 8. [Method chaining](./vanilla-javascript/method-chaining.md)
 
-9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.js)
+9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.md)
 
 10. [Callback functions](./vanilla-javascript/callback-functions.js)
 
