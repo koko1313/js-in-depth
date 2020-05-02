@@ -11,6 +11,6 @@
 - [Object](./object.js)
     - Functions are also objects
 - [Arrays](./arrays.md)
-- [null and undefined](./null-and-undefined.md)
+- [**null** and **undefined**](./null-and-undefined.md)
     - `undefined` - undefined value of property
     - `null` - property does exist, but holds no value

@@ -1,4 +1,4 @@
-# **null** and **undefined**
+# null and undefined
 
 ```javascript
 console.log(x); // Error x is not defined
