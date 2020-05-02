@@ -14,7 +14,7 @@
 
 6. [Closure](./vanilla-javascript/closure.md)
 
-7. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.js)
+7. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.md)
 
 8. [Method chaining](./vanilla-javascript/method-chaining.js)
 
