@@ -3,20 +3,6 @@
 ## Vanilla JavaScript
 
 1. [Datatypes in JavaScript](./vanilla-javascript/datatypes)
-    - [String](./vanilla-javascript/datatypes/string.js)
-    - [Number](./vanilla-javascript/datatypes/number.js)
-        - Special values:
-            - `NaN` (Not a Number)
-            - `Infinity` (positive infinity)
-            - `-Infinity` (negative infinity)
-            - `+0` / `-0`
-    - [Boolean](./vanilla-javascript/datatypes/boolean.js)
-    - [Object](./vanilla-javascript/datatypes/object.js)
-        - Functions are also objects
-    - [Array](./vanilla-javascript/datatypes/array.js)
-    - [null and undefined](./vanilla-javascript/datatypes/null-and-undefined.js)
-        - `undefined` - undefined value of property
-        - `null` - property does exist, but holds no value
 
 2. [Equal operators](./vanilla-javascript/equal-operators.js)
 
@@ -24,12 +10,7 @@
 
 4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.js)
 
-5. [Timeout functions](./vanilla-javascript/timeout-functions.js)
-    - `setTimeout()` and `setInterval()` are part of WEB API, which means we call it as `window.setTimeout()`,
-    but actually, we can call it just like this `setTimeout()`, while we are in
-    the global scope
-    - `setTimeout()` happens only once
-    - `setInterval()` happens many times (until gets stopped)
+5. [Timeout functions](./vanilla-javascript/timeout-functions/)
 
 6. [Closure](./vanilla-javascript/closure.js)
 
