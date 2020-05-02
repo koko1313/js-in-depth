@@ -1,4 +1,4 @@
-# Numbers
+# Number
 
 1. Integer
     ```javascript
