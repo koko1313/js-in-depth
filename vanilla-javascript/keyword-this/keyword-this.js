@@ -29,9 +29,9 @@ this.garage.cleanTable(); // cleaning garage table
 
 // "this" inside a function
 var cleanTable = function() {
-    console.log("cleaning " + this.table); // this.table is cleanTable.table => undefined
+    console.log("cleaning " + this.table); // in "strict mode" - "this" id undefined, else it's from the global scope => "window table"
 }
-cleanTable(); // undefined
+cleanTable(); // in "strict mode" - undefined, else "window table"
 
 
 // call cleanTable for "this"

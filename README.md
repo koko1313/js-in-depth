@@ -14,7 +14,7 @@
 
 6. [Closure](./vanilla-javascript/closure.js)
 
-7. [Call, apply and bind](./vanilla-javascript/call-apply-bind.js)
+7. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.js)
 
 8. [Method chaining](./vanilla-javascript/method-chaining.js)
 
@@ -22,7 +22,7 @@
 
 10. [Callback functions](./vanilla-javascript/callback-functions.js)
 
-11. [The keyword "this"](./vanilla-javascript/keyword-this.js)
+11. [The keyword **this**](./vanilla-javascript/keyword-this)
 
 ## ECMA Script
 
