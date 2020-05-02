@@ -10,7 +10,7 @@
 
 4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.md)
 
-5. [Timeout functions](./vanilla-javascript/timeout-functions/)
+5. [Timeout functions](./vanilla-javascript/timeout-functions.md)
 
 6. [Closure](./vanilla-javascript/closure.js)
 
