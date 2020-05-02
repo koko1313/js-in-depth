@@ -34,6 +34,6 @@
 
 4. [Promises](./ecma-script/promises.md)
 
-5. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters)
+5. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters.md)
 
 6. [Maps and Sets](./ecma-script/maps-and-sets)
