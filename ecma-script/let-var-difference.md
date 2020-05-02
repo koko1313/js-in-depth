@@ -8,15 +8,15 @@
 
 1. **var**
     ```javascript
-    // j declaration gets hoisted here
+    // i declaration gets hoisted here
 
     if(true) {
-        console.log(j); // undefined, because it's declaration gets hoisted but the value assotiation does not
+        console.log(i); // undefined, because it's declaration gets hoisted but the value assotiation does not
 
-        var j = 2;
+        var i = 2;
     }
 
-    console.log(j); // 2
+    console.log(i); // 2
     ```
 
 2. **let**
