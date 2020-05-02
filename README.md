@@ -26,13 +26,7 @@
 
 ## ECMA Script
 
-1. [Difference between let and var](./ecma-script/let-var-difference.js)
-
-    | var                                                   | let               |
-    |-------------------------------------------------------|-------------------|
-    | in JavaScript from the beginning                      | introduced in ES6 |
-    | declaration gets hoisted in the top of the function   | -                 |
-    | functional scope                                      | block scope       |
+1. [Difference between let and var](./ecma-script/let-var-difference.md)
 
 2. [Constants](./ecma-script/constants.js)
 
