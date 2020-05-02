@@ -24,6 +24,8 @@
 
 11. [The keyword **this**](./vanilla-javascript/keyword-this)
 
+12. [Currying](./vanilla-javascript/currying.md)
+
 ## ECMA Script
 
 1. [Difference between let and var](./ecma-script/let-var-difference.md)
