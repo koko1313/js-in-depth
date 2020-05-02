@@ -35,4 +35,4 @@
 
 3. [Promises](./ecma-script/promises.js)
 
-4. [Maps and Sets](./ecma-script/maps-and-sets);
+4. [Maps and Sets](./ecma-script/maps-and-sets)
