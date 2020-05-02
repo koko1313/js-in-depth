@@ -6,7 +6,7 @@
 
 2. [Equal operators](./vanilla-javascript/equal-operators.md)
 
-3. [Scope chain](./vanilla-javascript/scope-chain.js)
+3. [Scope chain](./vanilla-javascript/scope-chain.md)
 
 4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.js)
 

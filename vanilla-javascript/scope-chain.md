@@ -1,3 +1,6 @@
+# Scope chain
+
+```javascript
 var global = "global";
 
 function func() {
@@ -9,3 +12,4 @@ function func() {
 func();
 
 console.log(global); // global
+```
