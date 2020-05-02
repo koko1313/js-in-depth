@@ -47,4 +47,4 @@ It has different values depending on where it is used:
 
 - In an event, `this` refers to the **element** that received the event.
 
-``[Example](./keyword-this.js)``
+[Example](./keyword-this.js)
