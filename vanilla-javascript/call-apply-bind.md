@@ -1,6 +1,6 @@
 # Methods .call(), .apply and .bind
 
-1. **.call()**
+1. **.call()**. Calls function for an object
 
     ```javascript
     var obj = {num: 2}
@@ -26,7 +26,7 @@
     console.log(addToThis.apply(obj, params));
     ```
 
-3. **.bind()**
+3. **.bind()**. Creates a new function that has the object to it
 
     ```javascript
     var obj = {num: 2}
