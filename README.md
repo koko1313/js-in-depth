@@ -34,6 +34,8 @@
 
 2. [Constants](./ecma-script/constants.md)
 
+3. [Tagged template strings and string functions](./ecma-script/tagged-template-strings-and-string-functions.md)
+
 3. [Arrow functions](./ecma-script/arrow-functions.md)
 
 4. [Promises](./ecma-script/promises.md)
