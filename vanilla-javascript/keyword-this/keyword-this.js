@@ -31,7 +31,7 @@ this.garage.cleanTable(); // cleaning garage table
 var cleanTable = function() {
     console.log("cleaning " + this.table); // in "strict mode" - "this" id undefined, else it's from the global scope => "window table"
 }
-cleanTable(); // in "strict mode" - undefined, else "window table"
+cleanTable();
 
 
 // call cleanTable for "this"
