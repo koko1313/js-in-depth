@@ -1,7 +1,7 @@
 # Datatypes in JavaScript
 
 - [String](./string.md)
-- [Number](./number.js)
+- [Number](./numbers.md)
     - Special values:
         - `NaN` (Not a Number)
         - `Infinity` (positive infinity)
