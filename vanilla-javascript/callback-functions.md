@@ -1,3 +1,6 @@
+# Callback functions
+
+```javascript
 var add = function(a, b) {
     return a + b;
 }
@@ -19,3 +22,4 @@ console.log(calc(2, 3, multiply));
 
 // anonymous function
 console.log(calc(2, 3, function(a, b) {return a - b}));
+```

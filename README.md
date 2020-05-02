@@ -20,7 +20,7 @@
 
 9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.md)
 
-10. [Callback functions](./vanilla-javascript/callback-functions.js)
+10. [Callback functions](./vanilla-javascript/callback-functions.md)
 
 11. [The keyword **this**](./vanilla-javascript/keyword-this)
 
