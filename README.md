@@ -36,10 +36,10 @@
 
 3. [Tagged template strings and string functions](./ecma-script/tagged-template-strings-and-string-functions.md)
 
-3. [Arrow functions](./ecma-script/arrow-functions.md)
+4. [Arrow functions](./ecma-script/arrow-functions.md)
 
-4. [Promises](./ecma-script/promises.md)
+5. [Promises](./ecma-script/promises.md)
 
-5. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters.md)
+6. [Spread operator and rest parameters](./ecma-script/spread-operator-and-rest-parameters.md)
 
-6. [Maps and Sets](./ecma-script/maps-and-sets.md)
+7. [Maps and Sets](./ecma-script/maps-and-sets.md)
