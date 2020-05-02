@@ -8,7 +8,7 @@
 
 3. [Scope chain](./vanilla-javascript/scope-chain.md)
 
-4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.js)
+4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.md)
 
 5. [Timeout functions](./vanilla-javascript/timeout-functions/)
 
