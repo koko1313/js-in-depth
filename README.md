@@ -4,27 +4,29 @@
 
 1. [Datatypes in JavaScript](./vanilla-javascript/datatypes)
 
-2. [Equal operators](./vanilla-javascript/equal-operators.md)
+2. [Type Conversions](./vanilla-javascript/type-conversions.md)
 
-3. [Scope chain](./vanilla-javascript/scope-chain.md)
+3. [Equal operators](./vanilla-javascript/equal-operators.md)
 
-4. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.md)
+4. [Scope chain](./vanilla-javascript/scope-chain.md)
 
-5. [Timeout functions](./vanilla-javascript/timeout-functions.md)
+5. [Prototypal Inheritance](./vanilla-javascript/prototypal-inheritance.md)
 
-6. [Closure](./vanilla-javascript/closure.md)
+6. [Timeout functions](./vanilla-javascript/timeout-functions.md)
 
-7. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.md)
+7. [Closure](./vanilla-javascript/closure.md)
 
-8. [Method chaining](./vanilla-javascript/method-chaining.md)
+8. [Methods **call**, **apply** and **bind**](./vanilla-javascript/call-apply-bind.md)
 
-9. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.md)
+9. [Method chaining](./vanilla-javascript/method-chaining.md)
 
-10. [Callback functions](./vanilla-javascript/callback-functions.md)
+10. [Immediately Invoked Function Expression (IIFE)](./vanilla-javascript/immediately-invoked-function-expression.md)
 
-11. [The keyword **this**](./vanilla-javascript/keyword-this)
+11. [Callback functions](./vanilla-javascript/callback-functions.md)
 
-12. [Currying](./vanilla-javascript/currying.md)
+12. [The keyword **this**](./vanilla-javascript/keyword-this)
+
+13. [Currying](./vanilla-javascript/currying.md)
 
 ## ECMA Script
 
