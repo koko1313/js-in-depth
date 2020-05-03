@@ -1,15 +1,18 @@
 # Arrays
 
-1. Declare an array
+## Declare an array
 
-    ```javascript
-    var arr = ['a', 'b', 'c'];
+```javascript
+var arr = ['a', 'b', 'c'];
 
-    // supports different types
-    var arr = ['a', 0, null];
-    ```
+// supports different types
+var arr = ['a', 0, null];
+```
 
-2. `.push()` and `.pop()`
+
+## Array methods
+
+1. `.push()` and `.pop()`
 
     ```javascript
     // push element to array
@@ -20,8 +23,74 @@
     arr.pop();
     ```
 
-3. Get an element by index
+2. `Array.flat()`
 
     ```javascript
-    console.log(arr[0]); // print the first element of the array
+    const matrix = [[1, 2, 3], [4, 5, 6]];
+
+    console.log(matrix.flat(1)); // [1, 2, 3, 4, 5, 6]
+    ```
+
+    ```javascript
+    const matrix = [[1, 1], [1, [[[[[1]]]]]]];
+
+    console.log(matrix.flat(Infinity)); // [1, 1, 1, 1]
+    ```
+
+2. `Array.reduce()`
+
+    ```javascript
+    const arr = [1, 2, 3, 4];
+
+    console.log(arr.reduce((a, b) => a + b)); // 10
+    ```
+
+3. `Array.reduceRight()`
+
+    ```javascript
+    const strs = ['t', 's', 'e', 'b'];
+
+    console.log(strs.reduce( (c, v) => c + v )); // tseb
+    console.log(strs.reduceRight( (c, v) => c + v )); // best
+    ```
+
+4. `Array.map()` and `Array.flatMap()`
+
+    ```javascript
+    const nums = [1, 2, 3];
+    const strs = ['one', 'two', 'three'];
+
+    console.log(nums.map( (val, index) => [val, strs[index]] )); // [[1, "one"], [2, "two"], [3, "Three"]]
+
+    console.log(nums.flatMap( (val, index) => [val, strs[index]] )); // [1, "one", 2, "two", 3, "three"]
+    ```
+
+5. `Array.copyWithin()`
+
+    ```javascript
+    const nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+    nums.copyWithin(0);
+    console.log(nums); // [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    ```
+
+    ```javascript
+    const nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+    nums.copyWithin(2); // 2 is the staring index
+    console.log(nums); // [0, 1, 0, 1, 2, 3, 4, 5, 6, 7]
+    ```
+
+    ```javascript
+    const nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+    nums.copyWithin(0, 3); // 0 is the target index and start copy from index 3
+    console.log(nums); // [3, 4, 5, 6, 7, 8, 9, 7, 8, 9]
+    ```
+
+    ```javascript
+    const nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+    nums.copyWithin(0, 3, 5); // 0 is the target index and start copy from index 3 and stop copy to index 5
+    console.log(nums); // [3, 4, 2, 3, 4, 5, 6, 7, 8, 9]
     ```
