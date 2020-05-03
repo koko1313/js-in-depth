@@ -10,7 +10,7 @@
 > And then we go into the cinema.
 
 
-### With promises
+## With promises
 
 > Nothing async here. Just an example, using promises
 
@@ -64,7 +64,7 @@ ticket popcorn butter
 ```
 
 
-### Using async/await
+## Using async/await
 
 > `async` functions always returns a promise. `await` can only be used inside an async function's body
 
@@ -171,7 +171,7 @@ person3: shows ticket
 ```
 
 
-### Error handling when use async/await
+## Error handling when use async/await
 
 > What if the wife never comes back with the tickets and the husband gives up after an hour waiting
 
