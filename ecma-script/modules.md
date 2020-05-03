@@ -6,17 +6,12 @@ Or we can use a framework (React, Angular) which already provides a transpiler.
 
 
 ### Directory structure used
-base_directory/
-├── modules
-|   ├── libA.js
-|   ├── libB.js
-|   └── libC.js
+base_directory/  
+├── modules  
+|   ├── libA.js  
+|   ├── libB.js  
+|   └── libC.js  
 ├── App.js
-
-├── index.js
-├── package.json
-├── README.md
-└── yarn.lock
 
 
 ### libA.js (module)
