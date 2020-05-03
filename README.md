@@ -50,4 +50,6 @@
 
 10. [Async and Await](./ecma-script/async-await.md)
 
-10. [Iterators](./ecma-script/iterators.md)
+11. [Iterators](./ecma-script/iterators.md)
+
+12. [Generators](./ecma-script/generators.md)
