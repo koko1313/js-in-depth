@@ -3,16 +3,16 @@
 > When there is async, we need to wait.  
 > Why do we need to wait? Because JavaScript is non-blocking, so by default it doesn't wait for async.
 
-> Example situation - we are in the cinema, but have forget our ticket.
-> So the Wife goes home to bring the tickets. (promise)  
-> When she is back, she is hungry, so we go for some popcorn. (promise)  
-> Then she want butter on the popcorn...(promise)  
-> And then we go into the cinema.
+> Example situation - A family is in the cinema, but have forget their ticket.
+> So the Wife goes back to home to bring the tickets. (promise)  
+> When she is back, she is hungry, so the husband go for some popcorn. (promise)  
+> Then she want butter on the popcorn... (promise)  
+> And then they go into the cinema.
 
 
 ## With promises
 
-> Nothing async here. Just an example, using promises
+> Nothing async here. Just an example, using promises.
 
 ```javascript
 console.log("person1: shows ticket");
@@ -66,7 +66,7 @@ ticket popcorn butter
 
 ## Using async/await
 
-> `async` functions always returns a promise. `await` can only be used inside an async function's body
+> `async` functions always returns a promise. `await` can only be used inside an `async` function's body.
 
 ```javascript
 console.log("person1: shows ticket");
@@ -125,9 +125,8 @@ person3: shows ticket
 
 
 > Now let we change the situation a bit.
-> Wife wants candy and coke too, but for example you are going to get popcorn and she 
-> is going to get candy and coke.  
-> So when all this job is done and we have popcorn, candy and coke, then we shows the ticket
+> Wife wants candy and coke too, but (for example) husband id going to get popcorn and she is going to get candy and coke.  
+> So when all this job is done and they have popcorn, candy and coke, then they shows the ticket.
 
 ```javascript
 console.log("person1: shows ticket");
@@ -173,7 +172,7 @@ person3: shows ticket
 
 ## Error handling when use async/await
 
-> What if the wife never comes back with the tickets and the husband gives up after an hour waiting
+> What if the wife never comes back with the tickets and the husband gives up after an hour waiting?
 
 ```javascript
 console.log("person1: shows ticket");
