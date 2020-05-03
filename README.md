@@ -60,3 +60,5 @@
 ## Other
 
 1. [NPM](./other/npm.md)
+
+2. [Babel](./other/babel.md)
