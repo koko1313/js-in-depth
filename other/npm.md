@@ -13,17 +13,17 @@ npm init
 2. `npm install <dependency>`
 > Use `--save` flag to add the dependency in `package.json` file too
     
-    - Install the newest version
+- Install the newest version
     ```
     npm install jquery --save
     ```
 
-    - Install specific version
+- Install specific version
     ```
     npm install jquery@3.3.0 --save
     ```
 
-    - Install dependency only in development 
+- Install dependency only in development 
     ```
     npm install jquery --save-dev
     ```
