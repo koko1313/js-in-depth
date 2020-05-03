@@ -29,6 +29,12 @@ npm init
     ```
 
 
+3. `npm uninstall <dependency>`
+```
+npm uninstall jquery
+```
+
+
 ## Import installed dependency in our .js file
 
 ```javascript
