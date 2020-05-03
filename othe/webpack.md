@@ -1,6 +1,6 @@
 # Webpack
 
-> Webpack is a build tool. But it's more than a build tool. It manages our code, but it's not limited to that.
+> Webpack is a build tool. But it's more than a build tool. It manages our code, but it's not limited to that.  
 > **Webpack** uses `babel` to transpile code
 
 ## Install webpack
