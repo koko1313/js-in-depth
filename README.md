@@ -45,3 +45,5 @@
 7. [Maps and Sets](./ecma-script/maps-and-sets.md)
 
 8. [Modules](./ecma-script/modules.md)
+
+9. [Async and Await](./ecma-script/async-await.md)
