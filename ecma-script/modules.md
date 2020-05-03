@@ -8,9 +8,9 @@ Or we can use a framework (React, Angular) which already provides a transpiler.
 ### Directory structure used
 base_directory/  
 ├── modules  
-|   ├── libA.js  
-|   ├── libB.js  
-|   └── libC.js  
+│   ├── libA.js  
+│   ├── libB.js  
+│   └── libC.js  
 ├── App.js
 
 
