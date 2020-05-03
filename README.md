@@ -57,6 +57,11 @@
 12. [Generators](./ecma-script/generators.md)
 
 
+## Object Oriented Programming in JavaScript
+
+1. [Constructors](./oop/constructors.md)
+
+
 ## Other
 
 1. [NPM](./other/npm.md)
