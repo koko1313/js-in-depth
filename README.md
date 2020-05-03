@@ -1,5 +1,6 @@
 # JavaScript in Depth
 
+
 ## Vanilla JavaScript
 
 1. [Datatypes in JavaScript](./vanilla-javascript/datatypes)
@@ -28,6 +29,7 @@
 
 13. [Currying](./vanilla-javascript/currying.md)
 
+
 ## ECMA Script
 
 1. [Difference between let and var](./ecma-script/let-var-difference.md)
@@ -53,3 +55,8 @@
 11. [Iterators](./ecma-script/iterators.md)
 
 12. [Generators](./ecma-script/generators.md)
+
+
+## Other
+
+1. [NPM](./other/npm.md)
