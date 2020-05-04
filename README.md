@@ -61,6 +61,8 @@
 
 1. [Constructors](./oop/constructors.md)
 
+2. [Object.create()](./oop/object-create.md)
+
 
 ## Other
 
