@@ -1,8 +1,6 @@
 # Object.setPrototypeOf()
 
-> `Object.setPrototypeOf()` takes one object's method and make it available to another object.
-
-> Using: `Object.setPrototypeOf(destinationObject, souceObject);`.
+> `Object.setPrototypeOf(destinationObject, souceObject)` takes one object's method and make it available to another object.
 
 ```javascript
 let toyota = {

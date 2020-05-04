@@ -69,6 +69,8 @@
 
 5. [Object.setPrototypeOf()](./oop/object-set-prototype-of.md)
 
+5. [Object.assign()](./oop/object-assign.md)
+
 
 ## Other
 
