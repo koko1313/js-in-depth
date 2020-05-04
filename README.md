@@ -63,6 +63,8 @@
 
 2. [Object.create()](./oop/object-create.md)
 
+3. [Prototype chain](./oop/prototype-chain.md)
+
 
 ## Other
 
