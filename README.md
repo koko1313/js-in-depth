@@ -67,7 +67,7 @@
 
 4. [Extending constructors](./oop/extending-constructors.md)
 
-5. [Object.setPrototypeOf](./oop/object-set-prototype-of.md)
+5. [Object.setPrototypeOf()](./oop/object-set-prototype-of.md)
 
 
 ## Other
