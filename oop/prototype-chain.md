@@ -42,11 +42,11 @@ console.log(optimusPrime.print()); // I am a ToyTransformer
 ```
 ToyTransformer
 ├── __proto__
-│   ├── print                  // ToyTransformer.print
-│       ├── __proto__
-│           ├── print          // ToyCar.print
-│               ├── __proto__
-│                   ├── print  // Car.print
+│   ├── print                  <-- ToyTransformer.print
+│   │   ├── __proto__
+│   │   │   ├── print          <-- ToyCar.print
+│   │   │   │   ├── __proto__
+│   │   │   │   │   ├── print  <-- Car.print
 ```
 
 
