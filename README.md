@@ -9,4 +9,4 @@
 
 4. [Other](./other)
 
-5. [Tricky interview questions](./interview-preparation)
+5. [Interview preparation](./interview-preparation)
