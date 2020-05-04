@@ -79,3 +79,8 @@
 2. [Babel](./other/babel.md)
 
 3. [Webpack](./othe/webpack.md)
+
+
+# Interview questions
+
+1. [Tricky interview questions](./interview-questions/tricky-interview-questions.md)
