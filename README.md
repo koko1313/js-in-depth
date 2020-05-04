@@ -56,6 +56,8 @@
 
 12. [Generators](./ecma-script/generators.md)
 
+13. [Classes](./ecma-script/classes.md)
+
 
 ## Object Oriented Programming in JavaScript
 
