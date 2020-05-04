@@ -2,6 +2,9 @@
 
 > Create sub-constructor from a constructor.
 
+
+### Car, ToyCar and ToyTransformer
+
 ```javascript
 const Car = function() {}; // empty constructor
 Car.prototype = {
