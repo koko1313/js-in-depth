@@ -65,6 +65,8 @@
 
 3. [Prototype chain](./oop/prototype-chain.md)
 
+4. [Extending constructors](./oop/extending-constructors.md)
+
 
 ## Other
 
