@@ -56,8 +56,6 @@
 
 12. [Generators](./ecma-script/generators.md)
 
-13. [Classes](./ecma-script/classes.md)
-
 
 ## Object Oriented Programming in JavaScript
 
@@ -74,6 +72,8 @@
 6. [Object.assign()](./oop/object-assign.md)
 
 7. [Function Mixins](./oop/function-mixins.md)
+
+8. [Classes](./ecma-script/classes.md)
 
 
 ## Other
