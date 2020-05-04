@@ -33,8 +33,8 @@ console.log(optimusPrime.print()); // I am a ToyTransformer
 ```
 
 > In the above example, `ToyTransformer` has `.print()` method on it's prototype.  
-> This `.print()` method has another `.print()` method in it's prototype.  
-> And this `.print()` method has another `.print()` method in it's prototype.
+> This `.print()` method has another `.print()` method in it's prototype (`ToyCar.print()`).  
+> And this `.print()` method has another `.print()` method in it's prototype (`Car.print()`).
 
 ```
 ToyTransformer
