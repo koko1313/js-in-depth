@@ -69,7 +69,9 @@
 
 5. [Object.setPrototypeOf()](./oop/object-set-prototype-of.md)
 
-5. [Object.assign()](./oop/object-assign.md)
+6. [Object.assign()](./oop/object-assign.md)
+
+7. [Function Mixins](./oop/function-mixins.md)
 
 
 ## Other
