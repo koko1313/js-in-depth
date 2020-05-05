@@ -16,4 +16,6 @@
 
 8. [Classes](./classes.md)
 
-8. [Subclasses (extend Class)](./subclasses.md)
+9. [Subclasses (extend Class)](./subclasses.md)
+
+10. [Static class methods](./static-class-methods.md)
