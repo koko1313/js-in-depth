@@ -30,7 +30,7 @@
     ```javascript
     const arr = [1, 2, 3, 4];
 
-    console.log(arr.reduce((a, b) => a + b)); // 10
+    console.log(arr.reduce((accumulator, value) => accumulator + value)); // 10
     ```
 
 3. `Array.reduceRight()`
