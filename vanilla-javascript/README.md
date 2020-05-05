@@ -1,6 +1,6 @@
 # Vanilla JavaScript
 
-1. [Datatypes in JavaScript](./datatypes)
+1. [Datatypes in JavaScript](./datatypes/README.md)
 
 2. [Type Conversions](./type-conversions.md)
 
@@ -22,6 +22,6 @@
 
 11. [Callback functions](./callback-functions.md)
 
-12. [The keyword **this**](./keyword-this)
+12. [The keyword **this**](./keyword-this/README.md)
 
 13. [Currying](./currying.md)
