@@ -1,4 +1,4 @@
-# ECMA Script
+# ECMA Script 6
 
 1. [Difference between let and var](./let-var-difference.md)
 
