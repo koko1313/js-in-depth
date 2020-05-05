@@ -14,4 +14,6 @@
 
 7. [Function Mixins](./function-mixins.md)
 
-8. [Classes](./ecma-script/classes.md)
+8. [Classes](./classes.md)
+
+8. [Subclasses (extend Class)](./subclasses.md)
