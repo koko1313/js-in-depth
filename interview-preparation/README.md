@@ -9,3 +9,5 @@
 ## Mock interviews
 
 1. [Mock interview 1](./mock-interview-1.md)
+
+2. [Mock interview 2](./mock-interview-2.md)

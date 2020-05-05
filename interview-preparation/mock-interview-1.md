@@ -10,7 +10,7 @@ let x = {
 };
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 const xArr = [];
@@ -27,7 +27,7 @@ for(let i in x) {
 let x = "hi"; // it would be "ih"
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 console.log(x.split('').reverse().join(''));
@@ -51,7 +51,7 @@ let obj = {
 obj.getA().getB(); // modificate the code so we can use this (method chaining)
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 let obj = {
@@ -77,7 +77,7 @@ obj.getA().getB();
 [1, 2].print(); // this should return 1, 2
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 Array.prototype.print = function() {
@@ -106,7 +106,7 @@ newB.getX();
 newB.getY();
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 const a = function(x) {
@@ -147,7 +147,7 @@ clone.a = 2;
 console.log(obj.a); // it should not give 2
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 const obj = {
@@ -169,7 +169,7 @@ const a = [1, 2, 3, 5, 7, 9];
 const b = [1, 2, 2, 5, 6, 8, 8, 13, 100];
 ```
 
-Solution:
+**Solution:**
 
 ```javascript
 const a = [1, 2, 3, 5, 7, 9];
@@ -197,4 +197,4 @@ const obj = {
 obj.getX();
 ```
 
-Answer: `undefined`
+**Answer:** `undefined`
