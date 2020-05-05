@@ -3,7 +3,7 @@
 
 1. [Vanilla JavaScript](./vanilla-javascript)
 
-2. [ECMA Script](./ecma-script)
+2. [ECMA Script 6](./ecma-script-6)
 
 3. [Object Oriented Programming](./oop)
 
