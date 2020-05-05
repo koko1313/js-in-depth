@@ -1,6 +1,6 @@
 # Subclasses (extend Class)
 
-> Internaly classes and subclasses still using the old **prototypal inheritance**
+> Internaly classes and subclasses still using the old **prototypal inheritance**.
 
 
 ### Example
