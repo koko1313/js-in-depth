@@ -102,3 +102,7 @@
         b = true; // error, because typescript it trying to help us
         ```
 
+6. Functions
+7. Interface
+8. Class
+9. Access Modifiers
