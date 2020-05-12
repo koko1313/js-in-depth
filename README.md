@@ -10,3 +10,5 @@
 4. [Other](./other/README.md)
 
 5. [Interview preparation](./interview-preparation/README.md)
+
+6. [TypeScript](./typescript/README.md)
