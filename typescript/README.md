@@ -12,3 +12,10 @@
     - To compile TypeScript file to JavaScript run the command `tsc file_name.ts` or just `tsc fine_name`
     - `tsc file_name --watch` will automatically recompile the file
 
+3. Character traits
+    - The `.ts` files are treated like scripts, rather than modules. Modules has own scope, while the scripts uses the global scope. To get rid or this error add empty export statement at the top of `.ts` file:
+    
+    ```typescript
+    export {}
+    ```
+
