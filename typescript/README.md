@@ -19,3 +19,6 @@
     export {}
     ```
 
+4. Variable Declarations
+    - Declare variables using `let` and `const` (the ECMA Script 6 features)
+
