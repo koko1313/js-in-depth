@@ -239,3 +239,46 @@ let empl1 = new Employee('Kaloyan');
 console.log(empl1.employeeName); // error
 emp1.greet();
 ```
+
+### Decorators
+
+> Decorators are an experimental feature that may change in future releases.
+
+To enable decorators, we must enable `experimentalDecorators` compiler option in `tsconfig.json`:
+
+```json
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"experimentalDecorators": true
+	}
+}
+```
+
+#### Class Decorators
+
+> The class decorator is applied to the constructor of the class and can be used to observe, modify or replace a class definition.
+
+Override the constructor example:
+
+```typescript
+function classDecorator<T extends { new (...args: any[]): {} }>(constructor: T) {
+    return class extends constructor {
+        newProperty = "new property";
+        hello = "override";
+    }
+}
+
+@classDecorator
+class Greeter {
+    property = "property";
+    hello: string;
+    constructor(m: string) {
+        this.hello = m;
+    }
+}
+
+console.log(new Greeter("world").property); // property
+console.log(new Greeter("world").newProperty); // new property
+console.log(new Greeter("world").hello); // override
+```
