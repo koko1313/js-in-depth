@@ -282,3 +282,31 @@ console.log(new Greeter("world").property); // property
 console.log(new Greeter("world").newProperty); // new property
 console.log(new Greeter("world").hello); // override
 ```
+
+#### Method Decorators
+
+> The method decorator is applied to the *Property Descriptor* for the method and it ca be used to observe, modify or replace a method definition.
+
+Override the method body example:
+
+```typescript
+function g() {
+    return function(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
+        // descriptor.value is the body of the method (the method method() in this case)
+        descriptor.value = () => {
+            console.log("overwritten");
+        }
+    }
+}
+
+class C {
+    @g()
+    method() {
+        console.log("method called");
+    }
+}
+
+new C().method(); // overwritten
+```
+
+TODO: https://youtu.be/bRAcWk9S-6g?t=412
