@@ -13,6 +13,7 @@ To enable decorators, we must enable `experimentalDecorators` compiler option in
 }
 ```
 
+
 ### Class Decorators
 
 > The class decorator is applied to the constructor of the class and can be used to observe, modify or replace a class definition.
@@ -41,11 +42,12 @@ console.log(new Greeter("world").newProperty); // new property
 console.log(new Greeter("world").hello); // override
 ```
 
+
 ### Method Decorators
 
 > The method decorator is applied to the *Property Descriptor* for the method and it ca be used to observe, modify or replace a method definition.
 
-Override the method body example:
+#### Override the method body example
 
 ```typescript
 function g() {
@@ -67,4 +69,22 @@ class C {
 new C().method(); // overwritten
 ```
 
-TODO: https://youtu.be/bRAcWk9S-6g?t=412
+#### Override method parameters example
+
+```typescript
+function g(name: string) {
+    return function(target: any, propertyKey: string, descriptor: PropertyDescriptor) {
+        const fn = descriptor.value; // fn gets the method
+        descriptor.value = () => fn(name)
+    }
+}
+
+class C {
+    @g("Jim")
+    method(name: string) {
+        console.log("method called", name);
+    }
+}
+
+new C().method("Bob"); // method called Jim
+```
