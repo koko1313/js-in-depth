@@ -7,7 +7,7 @@
 
 Install webpack using `npm`
 ```
-npm install webpack
+npm install webpack --save-dev
 ```
 
 
