@@ -5,6 +5,11 @@
 
 ## Install webpack
 
+Init npm
+```
+npm init
+```
+
 Install webpack using `npm`
 ```
 npm install webpack --save-dev
